@@ -1,1 +1,2 @@
-# Plinko-1
+# PLINKO - 1
+Boiler plate for p5.play
